@@ -20,17 +20,17 @@ Dodge oncoming cars and obstacles while trying to achieve the highest score.
 
 You have a limited number of lives. The game ends when you run out of lives.
 
-Controls
+Controls:
 Use the arrow keys for car control.
 Press "P" to pause the game.
 Screenshots
 Gameplay
 Instructions
 
-Contributing
+Contributing:
 If you'd like to contribute to this project, please follow these steps:
 
-Fork the repository.
+Fork the repository:
 Create a new branch for your feature: git checkout -b feature-name
 Commit your changes: git commit -m 'Add a new feature'
 Push to the branch: git push origin feature-name
